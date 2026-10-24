@@ -1,3 +1,18 @@
 [
-  
+  {
+    "id": "iron-city-gym",
+    "name": "Academia Iron City",
+    "description": "Academia da GTA7 Lab: grade de aulas coletivas (spinning, yoga, crossfit, funcional, musculação orientada, boxe), com datas, níveis, preços, vagas e inscrição em aulas.",
+    "endpoint": "https://iron-city-gym-ecru.vercel.app/mcp",
+    "tags": [
+      "activity"
+    ],
+    "enviadoEm": "2026-10-24",
+    "toolsVerificadas": [
+      "search_classes",
+      "get_class",
+      "enroll_class",
+      "cancel_enrollment"
+    ]
+  }
 ]
