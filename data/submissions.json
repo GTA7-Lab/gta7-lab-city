@@ -1,8 +1,8 @@
 [
   {
     "id": "salao-de-beleza",
-    "name": "SalÃ£o de Beleza",
-    "description": "SalÃ£o de beleza da GTA7 Lab: serviÃ§os de cabelo, unhas e estÃ©tica com preÃ§os, horÃ¡rios livres e agendamento.",
+    "name": "Salão de Beleza",
+    "description": "Salão de beleza da GTA7 Lab: serviços de cabelo, unhas e estética com preços, horários livres e agendamento.",
     "endpoint": "https://gta-7-lab.vercel.app/api/mcp",
     "tags": [
       "activity"
