@@ -14,22 +14,5 @@
       "enroll_class",
       "cancel_enrollment"
     ]
-  },
-  {
-    "id": "salao-de-beleza",
-    "name": "Salão de Beleza",
-    "description": "Salão de beleza da GTA7 Lab: serviços de cabelo, unhas e estética com preços, horários livres e agendamento.",
-    "endpoint": "https://gta-7-lab.vercel.app/api/mcp",
-    "tags": [
-      "activity"
-    ],
-    "contato": "Tazaki",
-    "enviadoEm": "2026-10-24",
-    "toolsVerificadas": [
-      "listar_servicos",
-      "search_services",
-      "consultar_horarios",
-      "agendar_horario"
-    ]
   }
 ]
