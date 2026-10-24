@@ -48,26 +48,14 @@
     "enabled": false
   },
   {
-    "id": "salao-de-beleza",
-    "name": "Salão de Beleza",
-    "description": "Salão de beleza da GTA7 Lab: serviços de cabelo, unhas e estética com preços, horários livres e agendamento.",
+    "id": "cinemaduca",
+    "name": "Cinema Duca",
+    "description": "Cinema da GTA7 Lab: catálogo de filmes, sessões, preços e disponibilidade de assentos. No deploy da Vercel, apenas consultas; reservas desativadas.",
     "transport": "http",
-    "endpoint": "https://gta-7-lab.vercel.app/api/mcp",
+    "endpoint": "https://cinemaduca.vercel.app/api/mcp",
     "args": [],
     "tags": [
-      "activity"
-    ],
-    "enabled": true
-  },
-  {
-    "id": "iron-city-gym",
-    "name": "Academia Iron City",
-    "description": "Academia da GTA7 Lab: grade de aulas coletivas (spinning, yoga, crossfit, funcional, musculação orientada, boxe), com datas, níveis, preços, vagas e inscrição em aulas.",
-    "transport": "http",
-    "endpoint": "https://iron-city-gym-ecru.vercel.app/mcp",
-    "args": [],
-    "tags": [
-      "activity"
+      "movie"
     ],
     "enabled": true
   }
