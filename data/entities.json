@@ -46,5 +46,17 @@
       "finance"
     ],
     "enabled": false
+  },
+  {
+    "id": "salao-de-beleza",
+    "name": "Salão de Beleza",
+    "description": "Salão de beleza da GTA7 Lab: serviços de cabelo, unhas e estética com preços, horários livres e agendamento.",
+    "transport": "http",
+    "endpoint": "https://gta-7-lab.vercel.app/api/mcp",
+    "args": [],
+    "tags": [
+      "activity"
+    ],
+    "enabled": true
   }
 ]
